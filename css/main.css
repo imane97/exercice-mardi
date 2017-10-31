@@ -56,7 +56,20 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+p{
+    color: green;
+    margin: 30px;
+    font-weight: bold;
+}
 
+h1{
+    font-size: 15px;
+    color: red;
+}
+
+section{
+    background: pink;
+}
 
 
 
